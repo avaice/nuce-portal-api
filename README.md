@@ -1,5 +1,11 @@
-# avaice-bun-template
+# nuce-portal-api
 
-bun + TypeScriptでCLIアプリケーションを開発するためのテンプレート
+ポータルサイトの情報を取得できるAPI。自己責任でご利用ください。
 
-This project was created using `bun init` in bun v1.0.0. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+## setup
+
+bunで開発しているので、node.jsでの動作は不明です。
+
+`bun i`
+
+`bun run dev`
